@@ -28,17 +28,17 @@ from email.MIMEText import MIMEText
 
 ##### Update the following information ######
 #############################################
-ISE_address = "10.81.127.246"
-ISE_username = "admin"
-ISE_password = "Identity123"
+ISE_address =
+ISE_username =
+ISE_password =
 
-Probe_address = "10.48.50.161"
-Probe_username = "admin"
-Probe_password = "cisco!123s"
+Probe_address =
+Probe_username =
+Probe_password =
 
-Sender_email = "challita.youssef@gmail.com"
+Sender_email =
 # Recipient_email is a list of comma-separated email addresses:
-Recipient_email = ["challita.youssef@gmail.com", "cyoussef@cisco.com"]
+Recipient_email =  
 
 smtp_server = "smtp.gmail.com"
 smtp_server_port = 587
